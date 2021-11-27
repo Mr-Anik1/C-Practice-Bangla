@@ -10,7 +10,6 @@ Ascii Value ইনপুট দিলে সেটা Ascii Character
 int main()
 {
 	int n;
-	char ch;
 	
 	printf("Enter any Ascii value:");
 	scanf("%d",&n);
